@@ -1,0 +1,10 @@
+# Dados exportados / planilhas de trabalho (podem conter dados de clientes)
+*.xlsx
+*.xls
+*.csv
+*.rpt
+
+# Arquivos de editor/cliente SQL
+*.ssmssqlproj
+*.bak
+.vscode/
